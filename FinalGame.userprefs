@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/escape.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ChangeLevel.cs" Line="4" Column="1" />
+      <File FileName="Assets/Scripts/Jamminger.cs" Line="5" Column="1" />
+      <File FileName="Assets/Scripts/LifeMeter.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MegaMan.cs" Line="136" Column="1" />
+      <File FileName="Assets/Scripts/Score.cs" Line="14" Column="17" />
+      <File FileName="Assets/jamminger2.cs" Line="5" Column="24" />
+      <File FileName="Assets/forScore.cs" Line="40" Column="1" />
+      <File FileName="Assets/Scripts/NextLevel.cs" Line="14" Column="4" />
+      <File FileName="Assets/Next.cs" Line="10" Column="2" />
+      <File FileName="Assets/Scripts/EnemyManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DeathZone.cs" Line="1" Column="1" />
+      <File FileName="Assets/tombstonelevel2.cs" Line="7" Column="2" />
+      <File FileName="Assets/escape.cs" Line="28" Column="2" />
+      <File FileName="Assets/Pause.cs" Line="33" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
